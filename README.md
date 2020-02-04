@@ -11,9 +11,6 @@ Technologies Used:
 
 Packages Used:
 
-- Backend
+- Backend: `<npm i concurrently cors dotenv express mongoose>`
 
-  `<npm i concurrently cors dotenv express mongoose>`
-
-- Frontend
-  `<npm i @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome axios bootstrap font-awesome react-router-dom sass>`
+- Frontend: `<npm i @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome axios bootstrap font-awesome react-router-dom sass>`
