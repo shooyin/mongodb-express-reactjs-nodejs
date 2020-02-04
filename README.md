@@ -11,6 +11,6 @@ Boilerplate for starting a MERN Stack.
 
 #### Packages Used:
 
-- Backend: `<npm i concurrently cors dotenv express mongoose>`
+- Backend: `npm i concurrently cors dotenv express mongoose`
 
-- Frontend: `<npm i @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome axios bootstrap font-awesome react-router-dom sass>`
+- Frontend: `npm i @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome axios bootstrap font-awesome react-router-dom sass`
