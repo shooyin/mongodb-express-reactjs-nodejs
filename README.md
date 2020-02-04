@@ -1,4 +1,4 @@
-﻿# MongoDB - Express - ReactJS - NodeJS
+﻿# MongoDB - Express - React - Node
 
 Boilerplate for starting a MERN Stack.
 
