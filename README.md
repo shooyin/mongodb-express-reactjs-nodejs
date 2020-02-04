@@ -2,14 +2,14 @@
 
 Boilerplate for starting a MERN Stack.
 
-Technologies Used:
+####Technologies Used:
 
 - [MongoDB](https://www.mongodb.com/)
 - [Express](https://expressjs.com/)
 - [ReactJS](https://reactjs.org/)
 - [NodeJS](https://nodejs.org/)
 
-Packages Used:
+####Packages Used:
 
 - Backend: `<npm i concurrently cors dotenv express mongoose>`
 
