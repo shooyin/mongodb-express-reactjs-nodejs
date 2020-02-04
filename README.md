@@ -19,7 +19,6 @@ Boilerplate for starting a MERN Stack.
 
 
 #### Additional Instructions:
-
-If developing:
-- add "nodemon" to the parent folder: `npm i nodemon`
-- add "node_module" to both frontend and backend: `npm install`
+Add these two commands to both, backend and frontend folders:
+- `npm install`
+- `npm i nodemon`
