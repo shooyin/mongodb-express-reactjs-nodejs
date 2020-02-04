@@ -22,3 +22,5 @@ Boilerplate for starting a MERN Stack.
 Add these two commands to both, backend and frontend folders:
 - `npm install`
 - `npm i nodemon`
+
+Make sure to have a .env file located in backend.
