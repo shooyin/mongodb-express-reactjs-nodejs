@@ -14,3 +14,10 @@ Boilerplate for starting a MERN Stack.
 - Backend: `npm i concurrently cors dotenv express mongoose`
 
 - Frontend: `npm i @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome axios bootstrap font-awesome react-router-dom sass`
+
+
+#### Additional Instructions:
+
+If developing:
+- add "nodemon" to the parent folder: `npm i nodemon`
+- add "node_module" to both frontend and backend: `npm install`
